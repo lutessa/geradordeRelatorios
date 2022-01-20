@@ -1,5 +1,7 @@
-Programa Python que gera um docx a partir das informações de um CSV.
+Programa Python que gera arquivos .docx a partir de um arquivo template e informações de um CSV
 
 Necessário:
+
 python
+
 docxtpl
