@@ -5,3 +5,9 @@ Necessário:
 python
 
 docxtpl
+
+Run:
+
+genrelatorios.py <arquivo csv> <arquivo template>
+
+Ex: genRelatorios.py "info.csv" "relatoriotmp.docx"
